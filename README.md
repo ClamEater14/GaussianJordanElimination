@@ -6,6 +6,9 @@ It tells whether the matrix can be solved or not and the solutions if possible.
 This is meant to be used as a coding practice for me. ***DO NOT USE THIS PROGRAM TO CHEAT IN ANY EVALUATIONS!!***
 **I am NOT responsible for any of your academic misconduct charges because of using this program.**
 
+## Try It Out!
+Run the Repl here: [https://repl.it/@CalebLam14/GaussianJordanElimination#Main.java](https://repl.it/@CalebLam14/GaussianJordanElimination#Main.java)
+
 ## How to Use
 This program can solve systems of equations like this.
 ```
