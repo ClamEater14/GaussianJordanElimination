@@ -53,7 +53,6 @@ public class Main {
     }
 
     public static SolutionType performOperation(double[][] matrix) {
-        //SolutionType resultType = SolutionType.NONE;
         for (int i = 0; i < matrix.length; i++) {
             if (matrix[i][i] == 0) {
                 // Find a row to swap so that the pivot is non-zero.
@@ -129,11 +128,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("This is made for programming practice only. No cheating with this program will be allowed.");
         int m, n;
-        //int n;
         System.out.println("Dimensions ([Rows] [Columns]):");
         m = in.nextInt();
         n = in.nextInt();
-        //n = in.nextInt();
         double[][] augmentedMatrix = new double[m][n + 1];
 
         // Matrix setup
