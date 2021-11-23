@@ -3,7 +3,7 @@ A program that takes in an augmented matrix and solves it by putting it into RRE
 It tells whether the matrix can be solved or not and the solutions if possible.
 
 ## Disclaimer
-This is meant to be used as a coding practice for me. ***DO NOT USE THIS PROGRAM TO CHEAT IN ANY EVALUATIONS!!***
+This is meant to be used for demonstration purposes only. ***DO NOT USE THIS PROGRAM TO CHEAT IN ANY EVALUATIONS!!***
 **I am NOT responsible for any of your academic misconduct charges due to usage of this program.**
 
 ## Try It Out!
